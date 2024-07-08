@@ -220,12 +220,10 @@ a {
   #main-nav #nav-menus.active #m-logo-area #m-logo-img {
     aspect-ratio: 1/1;
     width: 4.5em;
-    height: 4.5em;
   }
   #main-nav #nav-menus.active #m-logo-area #m-logo-img img {
     object-fit: contain;
     object-position: center;
-    border-radius: 100%;
   }
   #main-nav #nav-menus.active #m-logo-area #m-logo-text {
     font-size: 0.9em;
