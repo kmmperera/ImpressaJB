@@ -424,6 +424,7 @@ a {
 .post-swiper-slide img {
   width: 100% !important;
   height: 100% !important;
+  border-radius: 4px;
 }
 
 @media (max-width: 768px) {
@@ -450,6 +451,7 @@ a {
 #services-list .impressa-service .service-left img {
   width: 100%;
   height: 100%;
+  border-radius: 4px;
 }
 #services-list .impressa-service .service-right {
   margin-left: 3em;
@@ -499,7 +501,7 @@ a {
     object-fit: cover;
     width: 100%;
     aspect-ratio: 2/1.4;
-    flex: 1;
+    flex: 1.5;
   }
   #services-list .impressa-service .service-left img {
     width: 100%;
